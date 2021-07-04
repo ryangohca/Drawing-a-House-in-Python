@@ -1,5 +1,3 @@
-# My Full Name: Ryan Goh
-# My Class: 2I
 # House in the summer rain
 
 import turtle
